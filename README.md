@@ -1,2 +1,2 @@
-# PyGame_Alien-Invasion
+# Start main.py in the directory Alien Invasion
  
